@@ -1,2 +1,1 @@
-# NTR
-Cucumber_Hybrid_Framework
+# CucumberHybridFramework
